@@ -1,3 +1,3 @@
-require './app'
-run RouteRecognizerApp
+require_relative 'app'
 
+RouteRecognizerApp.run!
